@@ -1,0 +1,7 @@
+
+
+Project 2 : IOT SENSOR DATA DETECTION AND FAULT DATA ACCOMMODATION USING MACHINE LEARNING
+
+In industries, wide variety of sensors are used for various applications. However, the sensing systems are prone to failures due to the aggressively corrosive environmental conditions . Therefore, reliable sensing is vital for various applicatons such as weather monitoring system, traffic monitoring system, dam level monitoring system. In this context, this paper presents a sensor failure detection and faulty data accommodation approach that aids to digitally monitor the health conditions of the  sensors. Therefore an  approach is used in such a way to predict the current data and compare it with past data using autoregressive integrated moving average (ARIMA) model with machine learning technique for  forecasting of sensor variable. Then, it identifies and isolates anomalies in a continuous stream of sensor data whilst detecting early sensor failure. Finally, the SFDFDA approach provides reliable estimates of sensor data in the event of sensor failure or during the scheduled maintenance period of monitoring systems. The results have demonstrated the effectiveness of the SFDFDA approach and its applicability to  monitoring sensor suites.
+
+I have attached my github link : https://github.com/Melvinbabyishing plant growth. An internet of things-based irrigation monitoring and control system, employing sensors and actuators can be adopted to facilitate the autonomous supply of adequate water from a reservoir to domestic crops in a smart irrigation systems.
